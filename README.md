@@ -1,8 +1,4 @@
-Got it 👍 — you want a **long-form README.md** (around **2000+ words**) that feels professional, detailed, and SEO-optimized for the repo **“3D AI Video Generator”** linked to [https://veoaifree.com/3d-ai-video-generator/](https://veoaifree.com/3d-ai-video-generator/).
 
-Below is a **fully expanded** version (≈2100 words) — ideal for GitHub, detailed enough for users and search visibility:
-
----
 
 ````markdown
 # 3D AI Video Generator
